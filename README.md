@@ -1,5 +1,3 @@
-# 8주만에 딥 러닝 엔지니어 육성하기
-
 담당자: 이의정, [010-2596-8062](tel: 010-2596-8062), [dano@codesquad.kr](mailto: dano@codesquad.kr)
 
 ## 강의 소개
