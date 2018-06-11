@@ -1,4 +1,6 @@
-담당자: 이의정, [010-2596-8062](tel: 010-2596-8062), [dano@codesquad.kr](mailto: dano@codesquad.kr)
+담당자: 이의정, [dano@codesquad.kr](mailto: dano@codesquad.kr)
+
+[수강 신청하기](https://goo.gl/STwZ9z)
 
 [강의 소개서 PDF 다운로드](https://goo.gl/STwZ9z)
 
@@ -78,3 +80,9 @@
 
 ## 준비물
 - 인터넷이 가능한 노트북 지참
+
+
+## 수강 신청 방법
+다음 링크를 이용해서 수강 신청하실 수 있습니다.
+
+[수강 신청하기](https://goo.gl/STwZ9z)
