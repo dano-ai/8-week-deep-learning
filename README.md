@@ -1,6 +1,6 @@
 담당자: 이의정, [dano@codesquad.kr](mailto: dano@codesquad.kr)
 
-[수강 신청하기](https://goo.gl/STwZ9z)
+[수강 신청하기](https://goo.gl/AcWD4d)
 
 ## 강의 소개
 
@@ -86,4 +86,4 @@
 ## 수강 신청 방법
 다음 링크를 이용해서 수강 신청하실 수 있습니다.
 
-[수강 신청하기](https://goo.gl/STwZ9z)
+[수강 신청하기](https://goo.gl/AcWD4d)
