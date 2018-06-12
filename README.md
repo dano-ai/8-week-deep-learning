@@ -2,6 +2,7 @@
 
 [수강 신청하기](https://goo.gl/AcWD4d) | 문의처: [dano@codesquad.kr](mailto: dano@codesquad.kr)
 
+
 ## 강의 소개
 
 [강의 소개서 PDF 다운로드](https://goo.gl/STwZ9z)
