@@ -1,6 +1,6 @@
-담당자: 이의정, [dano@codesquad.kr](mailto: dano@codesquad.kr)
+![Coursera Certificate](https://goo.gl/VU5C3y)
 
-[수강 신청하기](https://goo.gl/AcWD4d)
+[수강 신청하기](https://goo.gl/AcWD4d) | 문의처: [dano@codesquad.kr](mailto: dano@codesquad.kr)
 
 ## 강의 소개
 
