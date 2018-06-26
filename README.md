@@ -1,6 +1,6 @@
 ![Coursera Certificate](https://goo.gl/VU5C3y)
 
-(문의처: [dano@dano.ai](mailto: dano@dano.ai))
+(문의: [dano@dano.ai](mailto: dano@dano.ai))
 
 **(아직 다음 공개 강의 일정이 정해지지 않았습니다.)**
 
