@@ -1,8 +1,8 @@
 ![Coursera Certificate](https://goo.gl/VU5C3y)
 
-(문의: [dano@dano.ai](mailto: dano@dano.ai))
+딥 러닝 엔지니어 양성을 원하는 기업이라면 [메일](mailto:dano@dano.ai)로 연락 주세요.
 
-**(아직 다음 공개 강의 일정이 정해지지 않았습니다.)**
+**(다음 공개 강의 일정은 아직 정해지지 않았습니다.)**
 
 ## 강의 소개
 
