@@ -1,4 +1,4 @@
-![Coursera Certificate](https://goo.gl/VU5C3y)
+![Coursera Certificate](https://d2a08gotq8viav.cloudfront.net/web-pages/images/Coursera+-+Neural+Networks+and+Deep+Learning.jpg)
 
 딥 러닝 엔지니어 양성을 원하는 기업이라면 [메일](mailto:dano@dano.ai)로 연락 주세요.
 
